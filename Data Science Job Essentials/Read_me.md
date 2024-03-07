@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In the start of our journey in the field of data science or Data analysis, we all have wondered how we can transition into this field, what do we need, and what we can expect from this. Well this is the place where all those questions will be answered. In this proect I have analysed Job posting for data related jobs from "Glassdoor" and found out some of the key factors that are often seen in such job postings, like min qualification, expected salary, which programing languages are required the most, where and under whom we can expext to work.
+In the start of our journey in the field of Data science or Data analysis, we all have wondered how we can transition into this field, what do we need, and what we can expect from this. Well this is the place where all those questions will be answered. In this proect I have analysed Job posting for data related jobs from "Glassdoor" and found out some of the key factors that are often seen in such job postings, like min qualification, expected salary, which programing languages are required the most, where and under whom we can expext to work.
 
 ### About the dataset
 
