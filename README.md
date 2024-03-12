@@ -12,6 +12,6 @@ The dataset contains details of 600+ job postings from Glassdoor. Dataset was do
 
 I have divided my project into two parts: 
 
-First is "Data_Cleaning" in which I have cleaned the data using python. I have used the pandas and regulsr expressions library for this. Unwanted data is removed, old columns are formatted and new columns are created.
+First is "Data_Cleaning" in which I have cleaned the data using python. I have used pandas and regular expressions libraries for this. Unwanted data is removed, old columns are formatted and new columns are created.
 
 Second part is "Data_Viz" in which a dashboard is created to visualize key findings from the dataset and give user an interactive enviroment to better look in the dataset and give them control to find out what they are looking for.
