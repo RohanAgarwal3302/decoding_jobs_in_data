@@ -41,7 +41,7 @@ Data Scientist,Great-Circle Technologies,Chantilly,Company - Private,Enterprise 
 Senior Analyst/Data Scientist,Edmunds.com,Santa Monica,Company - Private,Internet,Information Technology,75000,131000,103000,Bachelors,True,True,True,
 Data Analyst,"Cambridge Associates, LLC",Boston,Company - Private,Investment Banking & Asset Management,Finance,75000,131000,103000,Bachelors,True,True,True,
 Machine Learning Engineer,Liberty Mutual Insurance,Portsmouth,Company - Private,Insurance Carriers,Insurance,75000,131000,103000,Bachelors,True,True,,
-Data Analyst I,Cenlar,Ewing,Company - Private,-1,-1,75000,131000,103000,Bachelors,,,True,
+Data Analyst I,Cenlar,Ewing,Company - Private,,,75000,131000,103000,Bachelors,,,True,
 Scientist - Molecular Biology,Arsenal Biosciences,South San Francisco,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75000,131000,103000,Phd,,,,
 Data Scientist,Eversight,Palo Alto,Company - Private,Enterprise Software & Network Solutions,Information Technology,75000,131000,103000,Masters,True,,,
 "Computational Scientist, Machine Learning",Pfizer,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,75000,131000,103000,Phd,True,,,
@@ -151,11 +151,11 @@ Data Scientist,SPECTRUM,Maryland Heights,Subsidiary or Business Segment,"Cable, 
 Staff Scientist- Upstream PD,Advanced BioScience Laboratories,Rockville,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,90000,109000,99500,,,True,,
 Data Engineer,Procore Technologies,Carpinteria,Company - Private,Computer Hardware & Software,Information Technology,90000,109000,99500,Bachelors,True,,True,
 Sr Scientist - Extractables & Leachables,Ritedose,Columbia,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,90000,109000,99500,Bachelors,,,,
-ELISA RESEARCH SCIENTIST (CV-15),Covid-19 Search Partners,Hauppauge,-1,-1,-1,90000,109000,99500,Phd,,,,
+ELISA RESEARCH SCIENTIST (CV-15),Covid-19 Search Partners,Hauppauge,,,,90000,109000,99500,Phd,,,,
 Sr Data Scientist,bioMérieux,Saint Louis,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,90000,109000,99500,Masters,True,,,
 Data Scientist,Novetta,Herndon,Company - Private,Enterprise Software & Network Solutions,Information Technology,101000,165000,133000,,True,True,,
 Experienced Data Scientist,Guzman & Griffin Technologies (GGTI),Washington,Company - Private,Federal Agencies,Government,101000,165000,133000,Masters,True,True,True,True
-Machine Learning Engineer,Radical Convergence,Reston,-1,-1,-1,101000,165000,133000,Masters,True,True,,True
+Machine Learning Engineer,Radical Convergence,Reston,,,,101000,165000,133000,Masters,True,True,,True
 Data Scientist,Leidos,Fort Meade,Company - Public,Aerospace & Defense,Aerospace & Defense,101000,165000,133000,Masters,,,,
 Data Scientist,Demandbase,San Francisco,Company - Private,Computer Hardware & Software,Information Technology,101000,165000,133000,,True,,True,
 Say Business Data Analyst,Shelter Insurance,Columbia,Company - Private,Insurance Carriers,Insurance,101000,165000,133000,,True,True,True,
@@ -165,7 +165,7 @@ Computational Scientist,General Dynamics Information Technology,Vicksburg,Subsid
 Data Scientist,Offerpad,Chandler,Company - Private,Real Estate,Real Estate,101000,165000,133000,Bachelors,True,True,True,
 Senior Data Analyst,Autodesk,San Francisco,Company - Public,Computer Hardware & Software,Information Technology,101000,165000,133000,,True,True,True,
 Senior Data Analyst,Autodesk,San Francisco,Company - Public,Research & Development,Business Services,101000,165000,133000,Masters,True,True,True,
-Data Engineer,Magna International Inc.,Birmingham,Company - Public,-1,-1,101000,165000,133000,Bachelors,True,,True,True
+Data Engineer,Magna International Inc.,Birmingham,Company - Public,,,101000,165000,133000,Bachelors,True,,True,True
 Sr Data Analyst,United BioSource,Blue Bell,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,101000,165000,133000,Bachelors,,True,True,
 Data Scientist,Kelly,Chicago,Company - Public,Staffing & Outsourcing,Business Services,101000,165000,133000,Bachelors,,,,
 "Machine Learning Scientist - Bay Area, CA",Tempus Labs,Redwood City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,101000,165000,133000,Masters,True,,True,
@@ -190,9 +190,9 @@ Principal Data Scientist - Machine Learning,Constant Contact,Waltham,Subsidiary 
 Principal Machine Learning Scientist,Sage Intacct,San Francisco,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,56000,97000,76500,Masters,True,,True,
 Data Engineer,Shape Security,Santa Clara,Company - Private,IT Services,Information Technology,56000,97000,76500,,True,,,
 Principal Data Scientist,AstraZeneca,Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56000,97000,76500,Phd,True,True,,
-Data Scientist,SkillSoniq,San Francisco,Company - Public,-1,-1,56000,97000,76500,,True,,True,
+Data Scientist,SkillSoniq,San Francisco,Company - Public,,,56000,97000,76500,,True,,True,
 Senior Data Scientist - R&D Oncology,AstraZeneca,New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56000,97000,76500,Phd,True,True,,
-Data Scientist,Joby Aviation,San Carlos,Company - Private,-1,-1,56000,97000,76500,,True,,True,
+Data Scientist,Joby Aviation,San Carlos,Company - Private,,,56000,97000,76500,,True,,True,
 "Health Plan Data Analyst, Sr",Cook Children's Health Care System,Fort Worth,Nonprofit Organization,Health Care Services & Hospitals,Health Care,56000,97000,76500,Bachelors,,,,
 "Principal Scientist/Associate Director, Quality Control and Analytical Technologies",Rubius Therapeutics,Smithfield,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,56000,97000,76500,Bachelors,,,,
 Analytics - Business Assurance Data Analyst,GreatAmerica Financial Services,Cedar Rapids,Company - Private,Lending,Finance,56000,97000,76500,Bachelors,,,True,
@@ -245,17 +245,17 @@ Real World Evidence (RWE) Scientist,Genesis Research,Hoboken,Company - Private,B
 Data Scientist,Sanofi,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,90000,124000,107000,Masters,True,True,True,
 Data Scientist,XPO Logistics,Lebanon,Company - Public,Transportation Management,Transportation & Logistics,90000,124000,107000,Bachelors,True,True,True,
 Data Scientist,Trace Data,Oakland,Company - Private,Insurance Carriers,Insurance,90000,124000,107000,Bachelors,True,True,True,
-Data Scientist,Descript,San Francisco,Company - Private,-1,-1,90000,124000,107000,Bachelors,True,True,,True
+Data Scientist,Descript,San Francisco,Company - Private,,,90000,124000,107000,Bachelors,True,True,,True
 Computer Scientist 1,Rincon Research Corporation,Melbourne,Company - Private,Aerospace & Defense,Aerospace & Defense,90000,124000,107000,Bachelors,True,,,True
 Lead Data Scientist,MassMutual,Boston,Company - Private,Insurance Carriers,Insurance,90000,124000,107000,Masters,True,True,True,
-Data Scientist,Better Hire,Birmingham,Company - Private,-1,-1,90000,124000,107000,,,,True,True
+Data Scientist,Better Hire,Birmingham,Company - Private,,,90000,124000,107000,,,,True,True
 Data Scientist,Parker Hannifin,Cleveland,Company - Public,Industrial Manufacturing,Manufacturing,90000,124000,107000,Bachelors,True,True,True,
 Data Scientist,Gallup,New York,Company - Private,Consulting,Business Services,90000,124000,107000,Masters,True,True,,
 Data Scientist,Insider Inc,New York,Company - Private,News Outlet,Media,90000,124000,107000,,True,True,,
 Data Scientist,Rapid Value Solutions,San Francisco,Company - Private,IT Services,Information Technology,90000,124000,107000,Bachelors,True,,True,
 Environmental Data Science,Battelle,Norwell,Nonprofit Organization,Research & Development,Business Services,90000,124000,107000,Bachelors,,True,True,
 Computational Behavioral Scientist,Ntrepid,Herndon,Company - Private,IT Services,Information Technology,90000,124000,107000,Masters,True,True,,True
-Data Scientist,"The Drive Media, Inc.",New York,Unknown,-1,-1,90000,124000,107000,Bachelors,True,,True,
+Data Scientist,"The Drive Media, Inc.",New York,Unknown,,,90000,124000,107000,Bachelors,True,,True,
 Staff BI and Data Engineer,Affinity Solutions,San Jose,Company - Private,Advertising & Marketing,Business Services,90000,124000,107000,Bachelors,True,,True,
 Principal Machine Learning Scientist,Sage Intacct,San Francisco,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,90000,124000,107000,Masters,True,,True,
 Principal Data Scientist - Machine Learning,Constant Contact,Waltham,Subsidiary or Business Segment,Advertising & Marketing,Business Services,90000,124000,107000,Masters,True,True,,
@@ -269,9 +269,9 @@ Data Scientist,eBay,San Jose,Company - Public,Internet,Information Technology,91
 "Data Engineer, Digital & Comp Pathology",Paige,New York,Company - Private,Enterprise Software & Network Solutions,Information Technology,91000,150000,120500,Masters,True,,True,
 Data Engineer,Shape Security,Santa Clara,Company - Private,IT Services,Information Technology,91000,150000,120500,,True,,,
 "Manager / Lead, Data Science & Analytics",ABIOMED,Danvers,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,91000,150000,120500,Masters,True,True,True,True
-Data Scientist,Comcast,New York,Company - Public,-1,-1,91000,150000,120500,Bachelors,True,True,True,
+Data Scientist,Comcast,New York,Company - Public,,,91000,150000,120500,Bachelors,True,True,True,
 Data Scientist,"Metronome, LLC",Vienna,Company - Private,IT Services,Information Technology,91000,150000,120500,Bachelors,True,True,True,
-Data Scientist,SkillSoniq,San Francisco,Company - Public,-1,-1,91000,150000,120500,,True,,True,
+Data Scientist,SkillSoniq,San Francisco,Company - Public,,,91000,150000,120500,,True,,True,
 Data Scientist,Lawrence Livermore National Lab,Livermore,Government,Federal Agencies,Government,91000,150000,120500,Bachelors,True,True,,True
 Diversity and Inclusion Data Analyst,FHLBank Pittsburgh,Pittsburgh,Company - Private,Banks & Credit Unions,Finance,91000,150000,120500,Bachelors,,,,
 Data Scientist,Jacobs,Herndon,Company - Public,Architectural & Engineering Services,Business Services,91000,150000,120500,Bachelors,True,True,True,
@@ -279,15 +279,15 @@ Data Scientist,Klaviyo,Boston,Company - Private,Computer Hardware & Software,Inf
 Data Scientist,Underwriters Laboratories,Northbrook,Company - Private,Consulting,Business Services,91000,150000,120500,Masters,,True,,
 Data Scientist,Altus Group,Irvine,Company - Public,Real Estate,Real Estate,91000,150000,120500,Bachelors,True,,True,
 Data Scientist,Jobot,Irvine,Company - Private,Staffing & Outsourcing,Business Services,91000,150000,120500,Bachelors,True,True,True,
-Data Scientist,Trovetechs Inc,San Francisco,Company - Private,-1,-1,91000,150000,120500,,,,,
+Data Scientist,Trovetechs Inc,San Francisco,Company - Private,,,91000,150000,120500,,,,,
 Senior Analyst/Data Scientist,Edmunds.com,Santa Monica,Company - Private,Internet,Information Technology,141000,225000,183000,Bachelors,True,True,True,
 Data Scientist,Cohere Health,Boston,Company - Private,IT Services,Information Technology,141000,225000,183000,Masters,True,True,True,
-Data Scientist,Trovetechs Inc,San Francisco,Company - Private,-1,-1,141000,225000,183000,,,,,
+Data Scientist,Trovetechs Inc,San Francisco,Company - Private,,,141000,225000,183000,,,,,
 Senior Data Scientist - R&D Oncology,AstraZeneca,New York,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,141000,225000,183000,Phd,True,True,,
 Data Scientist,Oshkosh Corporation,Oshkosh,Company - Public,Transportation Equipment Manufacturing,Manufacturing,141000,225000,183000,Bachelors,True,,True,True
-Data Scientist,Joby Aviation,San Carlos,Company - Private,-1,-1,141000,225000,183000,,True,,True,
+Data Scientist,Joby Aviation,San Carlos,Company - Private,,,141000,225000,183000,,True,,True,
 Data Scientist,Mackin,Menlo Park,Company - Private,Architectural & Engineering Services,Business Services,141000,225000,183000,,True,True,True,
-Data Scientist,PETADATA,San Francisco,Company - Private,-1,-1,141000,225000,183000,,True,True,True,
+Data Scientist,PETADATA,San Francisco,Company - Private,,,141000,225000,183000,,True,True,True,
 Data Scientist,VBeyond Corporation,Dallas,Company - Private,Staffing & Outsourcing,Business Services,141000,225000,183000,Bachelors,True,True,,
 Data Scientist Machine Learning,Leidos,Arlington,Company - Public,Aerospace & Defense,Aerospace & Defense,141000,225000,183000,Bachelors,True,True,,
 Data Scientist,Take-Two,San Francisco,Company - Public,Video Games,Media,141000,225000,183000,Masters,True,,True,
@@ -305,7 +305,7 @@ Data Scientist,Kingfisher Systems,McLean,Company - Private,Federal Agencies,Gove
 Chief Scientist,TrueAccord,Remote,Company - Private,Enterprise Software & Network Solutions,Information Technology,145000,225000,185000,Phd,True,,,
 Data Scientist,ALTA IT Services,Woodlawn,Company - Private,IT Services,Information Technology,145000,225000,185000,Bachelors,True,True,True,
 Data Scientist,Kollasoft Inc.,United States,Company - Private,IT Services,Information Technology,145000,225000,185000,Phd,True,True,,
-Data Scientist,Kollasoft Inc.,New York,Company - Public,-1,-1,145000,225000,185000,Masters,True,True,,
+Data Scientist,Kollasoft Inc.,New York,Company - Public,,,145000,225000,185000,Masters,True,True,,
 Data Scientist,ASRC Federal Holding Company,Reston,Company - Private,Aerospace & Defense,Aerospace & Defense,145000,225000,185000,Bachelors,,,,
 Data Scientist,Adwait Algorithm,New York,Company - Private,IT Services,Information Technology,145000,225000,185000,Bachelors,True,True,,
 "Health Plan Data Analyst, Sr",Cook Children's Health Care System,Fort Worth,Nonprofit Organization,Health Care Services & Hospitals,Health Care,145000,225000,185000,Bachelors,,,,
@@ -313,13 +313,13 @@ Data Scientist,Adwait Algorithm,New York,Company - Private,IT Services,Informati
 Data Scientist,Cambridge FX,Atlanta,Company - Public,Financial Transaction Processing,Finance,145000,225000,185000,Bachelors,True,True,,
 Senior Data Scientist,Metromile,San Francisco,Company - Private,Insurance Carriers,Insurance,145000,225000,185000,,True,,True,
 Data Scientist,Criteo,Ann Arbor,Company - Public,Internet,Information Technology,145000,225000,185000,Bachelors,True,True,,True
-Data Scientist,Advance Sourcing Concepts,Pittsburgh,Company - Private,-1,-1,145000,225000,185000,Bachelors,True,True,True,
+Data Scientist,Advance Sourcing Concepts,Pittsburgh,Company - Private,,,145000,225000,185000,Bachelors,True,True,True,
 Data Scientist,Enterprise Solutions Inc,New York,Company - Private,Staffing & Outsourcing,Business Services,145000,225000,185000,,True,True,,
 Analytics - Business Assurance Data Analyst,GreatAmerica Financial Services,Cedar Rapids,Company - Private,Lending,Finance,145000,225000,185000,Bachelors,,,True,
 Data Scientist,Microagility,New York,Company - Private,Consulting,Business Services,145000,225000,185000,,,True,True,
 Data Scientist,"Conch Technologies, Inc",Concord,Company - Private,Consulting,Business Services,145000,225000,185000,,,,,
 "Development Scientist, Voltaren",GSK,Richmond,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,145000,225000,185000,Bachelors,,True,,
-Data Scientist,"Rainmaker Resources, LLC",Cincinnati,Company - Private,-1,-1,145000,225000,185000,Bachelors,,,,
+Data Scientist,"Rainmaker Resources, LLC",Cincinnati,Company - Private,,,145000,225000,185000,Bachelors,,,,
 Data Scientist,GovTech,San Francisco,Government,Federal Agencies,Government,79000,147000,113000,Bachelors,True,True,,
 Data Scientist,Intellectual Ventures,Bellevue,Company - Private,Investment Banking & Asset Management,Finance,79000,147000,113000,,True,True,,True
 Data Engineer,Rocket Lawyer,San Francisco,Company - Private,Computer Hardware & Software,Information Technology,79000,147000,113000,Bachelors,True,,True,
@@ -332,10 +332,10 @@ Principal Data & Analytics Platform Engineer,Blue Cross and Blue Shield of North
 Machine Learning Engineer/Scientist,Jane Street,New York,Company - Private,Investment Banking & Asset Management,Finance,79000,147000,113000,,,,,
 Data Scientist,SSATI,McLean,Company - Private,Computer Hardware & Software,Information Technology,79000,147000,113000,,True,,True,
 "Senior Data Scientist – Image Analytics, Novartis AI Innovation Lab",Novartis,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,79000,147000,113000,,,,,
-Data Scientist,Solving IT International Inc,Chicago,Company - Private,-1,-1,79000,147000,113000,Bachelors,,,,
+Data Scientist,Solving IT International Inc,Chicago,Company - Private,,,79000,147000,113000,Bachelors,,,,
 Data Scientist,The Davey Tree Expert Company,Kent,Self-employed,Timber Operations,Agriculture & Forestry,79000,147000,113000,Bachelors,True,True,True,
 Data Scientist,Centauri,Reston,Company - Private,Aerospace & Defense,Aerospace & Defense,79000,147000,113000,Bachelors,,,True,
-Data Scientist,Stride Search,San Francisco,Company - Private,-1,-1,79000,147000,113000,,True,True,,
+Data Scientist,Stride Search,San Francisco,Company - Private,,,79000,147000,113000,,True,True,,
 Machine Learning Engineer,Software Engineering Institute,Pittsburgh,College / University,Colleges & Universities,Education,79000,147000,113000,Bachelors,True,,,True
 Data Analyst - Unilever Prestige,Dermalogica,Carson,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,79000,147000,113000,Bachelors,True,True,True,
 Data Scientist,TechProjects,New York,Company - Private,IT Services,Information Technology,79000,147000,113000,,True,True,True,
@@ -345,16 +345,16 @@ Data Scientist,Eversight,Palo Alto,Company - Private,Enterprise Software & Netwo
 Senior Business Intelligence Analyst,Protolabs,Maple Plain,Company - Public,Miscellaneous Manufacturing,Manufacturing,122000,146000,134000,Bachelors,,,True,
 Data Scientist,Ameritas Life Insurance Corp,Cincinnati,Company - Private,Insurance Agencies & Brokerages,Insurance,122000,146000,134000,,,,,
 Data Engineer - Kafka,Western Digital,San Jose,Company - Public,Computer Hardware & Software,Information Technology,122000,146000,134000,Bachelors,True,True,,True
-Data Scientist,"Shimento, Inc.",Santa Clara,Company - Private,-1,-1,122000,146000,134000,Bachelors,True,True,,
+Data Scientist,"Shimento, Inc.",Santa Clara,Company - Private,,,122000,146000,134000,Bachelors,True,True,,
 Data Scientist,Averity,New York,Company - Private,Staffing & Outsourcing,Business Services,122000,146000,134000,Masters,,,,
 Data Scientist,Praxis Engineering,Chantilly,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,122000,146000,134000,,,,True,
-Data Scientist,Point72 Ventures,Palo Alto,-1,-1,-1,122000,146000,134000,,,,,
+Data Scientist,Point72 Ventures,Palo Alto,,,,122000,146000,134000,,,,,
 Decision Scientist,Johns Hopkins University Applied Physics Laboratory,Laurel,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,122000,146000,134000,Bachelors,,,,
 Data Scientist,Cambridge Mobile Telematics,Cambridge,Company - Private,Enterprise Software & Network Solutions,Information Technology,122000,146000,134000,Masters,True,,,
 Data Science All Star Program - Data Engineer Track,Blend360,Columbia,Company - Private,Consulting,Business Services,122000,146000,134000,Masters,True,,True,
 Data Scientist - TS/SCI FSP or CI Required,Phoenix Operations Group,Annapolis Junction,Company - Private,IT Services,Information Technology,122000,146000,134000,Bachelors,True,True,,
 Data Analyst,Nolij Consulting,Falls Church,Company - Public,Consulting,Business Services,122000,146000,134000,Bachelors,True,True,True,
-Data Scientist,Hatch Data Inc,San Francisco,-1,-1,-1,122000,146000,134000,Bachelors,True,True,,
+Data Scientist,Hatch Data Inc,San Francisco,,,,122000,146000,134000,Bachelors,True,True,,
 Senior Data Scientist,Maxar Technologies,Herndon,Company - Public,Aerospace & Defense,Aerospace & Defense,122000,146000,134000,Bachelors,True,True,True,True
 Data Scientist,Quick Base,Cambridge,Company - Private,Enterprise Software & Network Solutions,Information Technology,112000,116000,114000,Masters,True,,True,True
 Data Scientist,Takeda,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,112000,116000,114000,Masters,True,True,True,
@@ -363,7 +363,7 @@ ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING 
 Data Scientist,Compass Consulting Group,Thousand Oaks,Company - Private,Consulting,Business Services,112000,116000,114000,Bachelors,True,,True,
 Data Science Software Engineer,Klaviyo,Boston,Company - Private,Computer Hardware & Software,Information Technology,112000,116000,114000,Bachelors,True,,,
 AI Ops Data Scientist,AstraZeneca,Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,112000,116000,114000,Phd,True,True,True,
-Data Scientist,"SolutionIT, Inc.",Edison,Company - Private,-1,-1,112000,116000,114000,Bachelors,,,,
+Data Scientist,"SolutionIT, Inc.",Edison,Company - Private,,,112000,116000,114000,Bachelors,,,,
 Data Scientist,Perspecta,Adelphi,Company - Public,Aerospace & Defense,Aerospace & Defense,112000,116000,114000,Bachelors,True,,,True
 Data Scientist,Smith Hanley Associates,Washington,Company - Private,Staffing & Outsourcing,Business Services,112000,116000,114000,Masters,True,True,True,
 Scientist - Machine Learning,Allen Institute,Seattle,Nonprofit Organization,Research & Development,Business Services,112000,116000,114000,Phd,,,,
@@ -380,7 +380,7 @@ Senior Data Analyst - Finance & Platform Analytics,Twitch,San Francisco,Subsidia
 Senior Data Scientist,Klaviyo,Boston,Company - Private,Computer Hardware & Software,Information Technology,110000,163000,136500,Bachelors,,,,
 Market Research Data Scientist,GutCheck,Denver,Company - Private,Advertising & Marketing,Business Services,110000,163000,136500,,,True,,
 IT Partner Digital Health Technology and Data Science,Biogen,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,110000,163000,136500,Bachelors,,True,,
-Data Scientist,HireAi,San Francisco,-1,-1,-1,110000,163000,136500,Bachelors,True,True,True,True
+Data Scientist,HireAi,San Francisco,,,,110000,163000,136500,Bachelors,True,True,True,True
 "Senior Machine Learning Scientist - Bay Area, CA",Tempus Labs,Redwood City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,110000,163000,136500,Phd,True,,True,
 "Software Engineer (Data Scientist, C,C++,Linux,Unix) - SISW - MG",Mentor Graphics,Fremont,Company - Public,Computer Hardware & Software,Information Technology,110000,163000,136500,Bachelors,True,True,,True
 Senior Clinical Data Scientist Programmer,WCG (WIRB-Copernicus Group),Hamilton,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,110000,163000,136500,Bachelors,,True,,
@@ -400,7 +400,7 @@ Senior Machine Learning Engineer,LifeOmic,Raleigh,Company - Private,Enterprise S
 Product Data Scientist - Ads Data Science,Twitter,San Francisco,Company - Public,Internet,Information Technology,124000,198000,161000,Masters,True,True,,True
 Data Scientist,Postmates - Corporate HQ,San Francisco,Company - Private,Express Delivery Services,Transportation & Logistics,124000,198000,161000,Bachelors,True,True,True,
 Data Scientist,"Visionist, Inc.",Columbia,Company - Private,Enterprise Software & Network Solutions,Information Technology,124000,198000,161000,Bachelors,True,True,,
-Data Scientist,Navio,San Mateo,Unknown,-1,-1,124000,198000,161000,,,,,
+Data Scientist,Navio,San Mateo,Unknown,,,124000,198000,161000,,,,,
 Data Scientist,Concerto HealthAI,Boston,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124000,198000,161000,Phd,True,True,,True
 Data Scientist,Evolvinc,Burbank,Company - Private,IT Services,Information Technology,124000,198000,161000,Bachelors,True,True,True,
 Data Scientist,PROPRIUS,Sunnyvale,Company - Private,Enterprise Software & Network Solutions,Information Technology,124000,198000,161000,Masters,True,True,,True
@@ -415,24 +415,24 @@ Data Scientist,Robert Half,Manchester,Company - Public,Staffing & Outsourcing,Bu
 Analytics - Business Assurance Data Analyst,GreatAmerica Financial Services,Cedar Rapids,Company - Private,Lending,Finance,124000,198000,161000,Bachelors,,,True,
 Data Scientist,Conflux Systems Inc.,Winters,Company - Private,Accounting,Accounting & Legal,124000,198000,161000,Phd,True,,True,
 Data Scientist,Criteo,Ann Arbor,Company - Public,Internet,Information Technology,124000,198000,161000,Bachelors,True,True,,True
-Data Scientist,Voice,Brooklyn,Company - Private,-1,-1,124000,198000,161000,Bachelors,True,,,
+Data Scientist,Voice,Brooklyn,Company - Private,,,124000,198000,161000,Bachelors,True,,,
 Data Scientist,Microagility,New York,Company - Private,Consulting,Business Services,124000,198000,161000,,,True,True,
 Data Scientist,Coverent,McLean,Company - Private,Consulting,Business Services,124000,198000,161000,Bachelors,True,,,
 Data Scientist,Via Transportation,New York,Company - Private,Internet,Information Technology,79000,133000,106000,Phd,True,True,True,
 Senior Data Scientist,Benson Hill,Saint Louis,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,79000,133000,106000,Bachelors,True,True,,
 Data Scientist,"Conch Technologies, Inc",Concord,Company - Private,Consulting,Business Services,79000,133000,106000,,,,,
-Data Scientist,Falcon IT & Staffing Solutions,Fort Belvoir,Company - Public,-1,-1,79000,133000,106000,Bachelors,True,,,
-Data Scientist,"Rainmaker Resources, LLC",Cincinnati,Company - Private,-1,-1,79000,133000,106000,Bachelors,,,,
+Data Scientist,Falcon IT & Staffing Solutions,Fort Belvoir,Company - Public,,,79000,133000,106000,Bachelors,True,,,
+Data Scientist,"Rainmaker Resources, LLC",Cincinnati,Company - Private,,,79000,133000,106000,Bachelors,,,,
 Data Engineer,Rocket Lawyer,San Francisco,Company - Private,Computer Hardware & Software,Information Technology,79000,133000,106000,Bachelors,True,,True,
 Data Scientist,DataLab USA,Germantown,Company - Private,IT Services,Information Technology,79000,133000,106000,Bachelors,True,True,True,
 Data Scientist,Werner Enterprises Inc,Omaha,Company - Public,Logistics & Supply Chain,Transportation & Logistics,79000,133000,106000,Bachelors,,,,
-Data Scientist,PeopleCom,McLean,Company - Private,-1,-1,79000,133000,106000,Phd,True,,True,True
+Data Scientist,PeopleCom,McLean,Company - Private,,,79000,133000,106000,Phd,True,,True,True
 Data Scientist - Machine Learning,VANTA Partners,Open Fork,Company - Private,Staffing & Outsourcing,Business Services,79000,133000,106000,Masters,True,True,,
 Data Scientist,B4Corp,Reston,Company - Private,IT Services,Information Technology,79000,133000,106000,,True,,True,
-Data Scientist,"Blue Icy Water, LLC",United States,Company - Private,-1,-1,79000,133000,106000,,,,,
+Data Scientist,"Blue Icy Water, LLC",United States,Company - Private,,,79000,133000,106000,,,,,
 Data Scientist,"Farmer's Business Network, Inc.",San Carlos,Company - Private,Farm Support Services,Agriculture & Forestry,79000,133000,106000,Masters,True,True,,
 Data Scientist,Sonde Health,Boston,Private Practice / Firm,Health Care Services & Hospitals,Health Care,79000,133000,106000,Masters,True,True,,True
-Data Scientist,Maxiom,Ashburn,Company - Public,-1,-1,79000,133000,106000,,True,True,True,True
+Data Scientist,Maxiom,Ashburn,Company - Public,,,79000,133000,106000,,True,True,True,True
 Data Scientist,Change Healthcare,Lombard,Company - Public,IT Services,Information Technology,79000,133000,106000,Bachelors,,,True,
 Data Scientist,DCS Corp,Hampton,Company - Private,Research & Development,Business Services,79000,133000,106000,Masters,True,True,,True
 Data Scientist,Hive (CA),San Francisco,Company - Private,Telecommunications Services,Telecommunications,79000,133000,106000,,True,True,True,True
@@ -448,9 +448,9 @@ Data Scientist,Knowesis Inc.,Falls Church,Company - Private,Consulting,Business 
 Data Scientist,MoTek Technologies,Mountain View,Company - Private,IT Services,Information Technology,69000,116000,92500,Bachelors,True,,True,
 Data Scientist,The Davey Tree Expert Company,Kent,Self-employed,Timber Operations,Agriculture & Forestry,69000,116000,92500,Bachelors,True,True,True,
 Data Scientist,HPOne,Trumbull,Company - Private,Insurance Carriers,Insurance,69000,116000,92500,Masters,True,True,,
-Data Scientist,Stride Search,San Francisco,Company - Private,-1,-1,69000,116000,92500,,True,True,,
+Data Scientist,Stride Search,San Francisco,Company - Private,,,69000,116000,92500,,True,True,,
 Machine Learning Engineer,Software Engineering Institute,Pittsburgh,College / University,Colleges & Universities,Education,69000,116000,92500,Bachelors,True,,,True
-Data Scientist,Blue Cloak LLC,Sterling,-1,-1,-1,69000,116000,92500,Bachelors,True,,True,
+Data Scientist,Blue Cloak LLC,Sterling,,,,69000,116000,92500,Bachelors,True,,True,
 Data Scientist,TBWA\Chiat\Day,New York,Company - Public,Advertising & Marketing,Business Services,69000,116000,92500,,True,True,True,
 Data Scientist,ThreeBridge Solutions,Alpharetta,Company - Private,Consulting,Business Services,69000,116000,92500,,True,,True,
 Data Scientist,"Numeric, LLC",Philadelphia,Company - Private,Staffing & Outsourcing,Business Services,69000,116000,92500,Bachelors,True,,True,
@@ -467,9 +467,9 @@ Data Engineer - Kafka,Western Digital,San Jose,Company - Public,Computer Hardwar
 Data Scientist,Trexquant Investment,United States,Company - Private,Investment Banking & Asset Management,Finance,31000,56000,43500,,True,,True,
 Data Scientist,Ameritas Life Insurance Corp,Cincinnati,Company - Private,Insurance Agencies & Brokerages,Insurance,31000,56000,43500,,,,,
 Data Scientist,Fleetcor,Atlanta,Company - Public,Financial Transaction Processing,Finance,31000,56000,43500,Bachelors,True,True,,
-Data Scientist,Radiant Digital,Washington,Company - Private,-1,-1,31000,56000,43500,Bachelors,True,,True,
+Data Scientist,Radiant Digital,Washington,Company - Private,,,31000,56000,43500,Bachelors,True,,True,
 Data Scientist,Child Care Aware of America,Arlington,Nonprofit Organization,Social Assistance,Non-Profit,31000,56000,43500,Bachelors,True,True,,
-Data Scientist,IntelliPro Group Inc.,Santa Clara,Company - Private,-1,-1,31000,56000,43500,Bachelors,True,True,,
+Data Scientist,IntelliPro Group Inc.,Santa Clara,Company - Private,,,31000,56000,43500,Bachelors,True,True,,
 In-Line Inspection Data Analyst,Quest Integrity,Tulsa,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",31000,56000,43500,,,,,
 Data Scientist,Praxis Engineering,Chantilly,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,31000,56000,43500,,,,True,
 Data Scientist,USI,Southfield,Company - Private,Construction,"Construction, Repair & Maintenance",31000,56000,43500,Masters,True,,True,
@@ -485,12 +485,12 @@ Data Scientist,Lorven Technologies Inc,New York,Company - Private,Accounting,Acc
 Data Analyst,Nolij Consulting,Falls Church,Company - Public,Consulting,Business Services,95000,119000,107000,Bachelors,True,True,True,
 Data Scientist,Dice.com,Newton,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,95000,119000,107000,Bachelors,,,True,
 Data Scientist,Gap Inc.,San Francisco,Company - Public,"Department, Clothing, & Shoe Stores",Retail,95000,119000,107000,Masters,True,,True,
-Data Scientist,"Tygart Technology, Inc",Washington,Company - Private,-1,-1,95000,119000,107000,Bachelors,True,True,True,
-Data Scientist,Hatch Data Inc,San Francisco,-1,-1,-1,95000,119000,107000,Bachelors,True,True,,
+Data Scientist,"Tygart Technology, Inc",Washington,Company - Private,,,95000,119000,107000,Bachelors,True,True,True,
+Data Scientist,Hatch Data Inc,San Francisco,,,,95000,119000,107000,Bachelors,True,True,,
 Data Scientist,Murray Resources,The Woodlands,Company - Private,Staffing & Outsourcing,Business Services,95000,119000,107000,Bachelors,True,True,True,True
 Data Scientist,New York Technology Partners,Seattle,Company - Private,Computer Hardware & Software,Information Technology,95000,119000,107000,Phd,True,,True,
 Data Scientist,Two95 International Inc.,Chicago,Company - Private,Staffing & Outsourcing,Business Services,95000,119000,107000,,True,True,True,
-Data Scientist,Sophinea,Chantilly,Unknown,-1,-1,95000,119000,107000,Bachelors,,,True,
+Data Scientist,Sophinea,Chantilly,Unknown,,,95000,119000,107000,Bachelors,,,True,
 Data Scientist,CRS Group,Chicago,Company - Private,Staffing & Outsourcing,Business Services,95000,119000,107000,Bachelors,,,,
 Data Scientist,Blackstone Talent Group,San Francisco,Company - Private,Consulting,Business Services,95000,119000,107000,Bachelors,True,,,
 Data Scientist - TS/SCI Required,Phoenix Operations Group,Baltimore,Company - Private,IT Services,Information Technology,95000,119000,107000,Bachelors,True,,,
@@ -501,23 +501,23 @@ Data Scientist(s)/Machine Learning Engineer,Blue Horizon Tek Solutions,New York,
 Senior Data Scientist,Maxar Technologies,Herndon,Company - Public,Aerospace & Defense,Aerospace & Defense,212000,331000,271500,Bachelors,True,True,True,True
 Data Scientist,Sharpedge Solutions Inc,Seattle,Company - Private,Publishing,Media,212000,331000,271500,,True,,True,
 Data Scientist,Maxar Technologies,Herndon,Company - Public,Aerospace & Defense,Aerospace & Defense,212000,331000,271500,Bachelors,True,True,True,True
-Data Scientist,Alaka`ina Foundation Family of Companies,Fort Sam Houston,Government,-1,-1,212000,331000,271500,Phd,True,True,True,True
+Data Scientist,Alaka`ina Foundation Family of Companies,Fort Sam Houston,Government,,,212000,331000,271500,Phd,True,True,True,True
 ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Southwest Research Institute,Oklahoma City,Nonprofit Organization,Research & Development,Business Services,212000,331000,271500,Bachelors,True,,,True
 Data Scientist,Hexagon US Federal,Lexington Park,Company - Public,Aerospace & Defense,Aerospace & Defense,212000,331000,271500,Bachelors,,,,
 Data Science Software Engineer,Klaviyo,Boston,Company - Private,Computer Hardware & Software,Information Technology,212000,331000,271500,Bachelors,True,,,
-"Scientist / Group Lead, Cancer Biology",Monte Rosa Therapeutics,Cambridge,-1,-1,-1,212000,331000,271500,Masters,,,,
+"Scientist / Group Lead, Cancer Biology",Monte Rosa Therapeutics,Cambridge,,,,212000,331000,271500,Masters,,,,
 Data Scientist,Comtech Global Inc,Washington,Company - Private,"Health, Beauty, & Fitness",Consumer Services,212000,331000,271500,Bachelors,True,True,True,
 Data Scientist,"Aveshka, Inc.",Washington,Company - Public,IT Services,Information Technology,212000,331000,271500,Bachelors,True,True,True,
 "Manager, Field Application Scientist, Southeast",10x Genomics,Raleigh,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,212000,331000,271500,Bachelors,,,,
 COMPUTER SCIENTIST - ENGINEER - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING,Southwest Research Institute,Dayton,Nonprofit Organization,Research & Development,Business Services,212000,331000,271500,Bachelors,True,,,True
-Data Scientist,CompuForce,New York,Company - Private,-1,-1,212000,331000,271500,Phd,,True,,
+Data Scientist,CompuForce,New York,Company - Private,,,212000,331000,271500,Phd,,True,,
 Data Scientist,Smith Hanley Associates,Washington,Company - Private,Staffing & Outsourcing,Business Services,212000,331000,271500,Masters,True,True,True,
 Scientist - Machine Learning,Allen Institute,Seattle,Nonprofit Organization,Research & Development,Business Services,212000,331000,271500,Phd,,,,
 Data Scientist,1-800-Flowers,New York,Company - Public,Wholesale,Business Services,212000,331000,271500,Bachelors,True,,True,
 Data Scientist,Aptive,Washington,Company - Private,Consulting,Business Services,212000,331000,271500,Bachelors,True,True,True,True
 Data Scientist - Image and Video Analytics,The Mom Project,Longmont,Company - Private,Staffing & Outsourcing,Business Services,66000,112000,89000,Bachelors,True,,,
 Data Scientist,Powertek,Washington,Company - Private,IT Services,Information Technology,66000,112000,89000,,,,,
-Data Scientist,JCD Staffing,Washington,Company - Private,-1,-1,66000,112000,89000,Masters,True,True,True,True
+Data Scientist,JCD Staffing,Washington,Company - Private,,,66000,112000,89000,Masters,True,True,True,True
 Data Scientist,Bayside Solutions,Sunnyvale,Company - Private,Staffing & Outsourcing,Business Services,66000,112000,89000,Bachelors,True,True,True,
 Senior Data Engineer,Thumbtack,San Francisco,Company - Private,Internet,Information Technology,66000,112000,89000,,True,,,
 Data Scientist,"MILVETS Systems Technology, Inc.",Patuxent,Company - Private,IT Services,Information Technology,66000,112000,89000,Bachelors,,,,
@@ -541,7 +541,7 @@ Senior Data Scientist,Thumbtack,San Francisco,Company - Private,Internet,Informa
 Senior Data Analyst - Finance & Platform Analytics,Twitch,San Francisco,Subsidiary or Business Segment,Internet,Information Technology,128000,201000,164500,Bachelors,True,True,True,
 Software Engineer - Machine Learning & Data Science (Applied Intelligence Services Team),New Relic,Portland,Company - Public,Computer Hardware & Software,Information Technology,128000,201000,164500,,True,,,True
 IT Partner Digital Health Technology and Data Science,Biogen,Cambridge,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,128000,201000,164500,Bachelors,,True,,
-Data Scientist,HireAi,San Francisco,-1,-1,-1,128000,201000,164500,Bachelors,True,True,True,True
+Data Scientist,HireAi,San Francisco,,,,128000,201000,164500,Bachelors,True,True,True,True
 "Senior Machine Learning Scientist - Bay Area, CA",Tempus Labs,Redwood City,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,128000,201000,164500,Phd,True,,True,
 Data Scientist,ICW Group,San Diego,Company - Private,Insurance Carriers,Insurance,128000,201000,164500,Bachelors,True,True,True,
 Clinical Data Analyst,NYSTEC,New York,Nonprofit Organization,Consulting,Business Services,128000,201000,164500,Bachelors,True,,True,
@@ -554,7 +554,7 @@ Computer Vision / Deep Learning Scientist,Tempus Labs,Chicago,Company - Private,
 Big Data Engineer,CaptiveAire,Raleigh,Company - Private,Industrial Manufacturing,Manufacturing,128000,201000,164500,,True,,True,
 Data Architect,LSQ,Orlando,Company - Private,Investment Banking & Asset Management,Finance,128000,201000,164500,,True,,True,True
 Machine Learning Engineer,Temboo,New York,Company - Private,IT Services,Information Technology,128000,201000,164500,,,,,
-Data Scientist,Kibo,Philadelphia,Company - Public,-1,-1,128000,201000,164500,Bachelors,True,True,,
+Data Scientist,Kibo,Philadelphia,Company - Public,,,128000,201000,164500,Bachelors,True,True,,
 Aviation AI/ML Data Scientist,MITRE,McLean,Nonprofit Organization,Federal Agencies,Government,128000,201000,164500,Bachelors,True,,,
 Data Scientist,Mars,United States,Company - Private,Food & Beverage Manufacturing,Manufacturing,138000,158000,148000,Bachelors,True,,,
 Data Scientist / Applied Mathematician,"Fullpower Technologies, Inc.",Santa Cruz,Company - Private,Computer Hardware & Software,Information Technology,138000,158000,148000,Bachelors,True,,True,
@@ -571,7 +571,7 @@ Enterprise Data Analyst (Enterprise Portfolio Management Office),Navy Federal Cr
 Senior Scientist - Toxicologist - Product Integrity (Stewardship),Reynolds American,Winston-Salem,Company - Private,Consumer Products Manufacturing,Manufacturing,138000,158000,148000,Masters,,True,,True
 Lead Data Scientist – Network Analysis and Control,MITRE,Bedford,Nonprofit Organization,Federal Agencies,Government,138000,158000,148000,Bachelors,True,True,,
 Senior Machine Learning Engineer,LifeOmic,Raleigh,Company - Private,Enterprise Software & Network Solutions,Information Technology,138000,158000,148000,,,,,
-"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics","Homology Medicines, Inc.",New Bedford,Company - Public,-1,-1,138000,158000,148000,Bachelors,,,,
+"Sr. Research Associate/ Scientist, NGS prep & Molecular Genomics","Homology Medicines, Inc.",New Bedford,Company - Public,,,138000,158000,148000,Bachelors,,,,
 Data Engineer,Spectrum Communications and Consulting,Chicago,Company - Private,Advertising & Marketing,Business Services,138000,158000,148000,Bachelors,True,,True,True
 Developer III - Data Science,Inland Empire Health Plan,Rancho Cucamonga,Company - Public,Health Care Services & Hospitals,Health Care,138000,158000,148000,Bachelors,,,True,
 Senior Data Engineer,Affinity Solutions,New York,Company - Private,Advertising & Marketing,Business Services,138000,158000,148000,Masters,True,,True,
@@ -584,7 +584,7 @@ Data Scientist,GSK,Collegeville,Company - Public,Biotech & Pharmaceuticals,Biote
 Data Scientist,CIA,Washington,Government,Federal Agencies,Government,80000,132000,106000,Bachelors,,,,
 Data Scientist,Maven Wave Partners,Chicago,Company - Private,Consulting,Business Services,80000,132000,106000,Bachelors,True,True,True,True
 Data Scientist,Ovative Group,Minneapolis,Company - Private,Advertising & Marketing,Business Services,80000,132000,106000,,True,True,,
-Data Scientist,Kognetics,Gahanna,Company - Private,-1,-1,80000,132000,106000,Masters,True,True,True,
+Data Scientist,Kognetics,Gahanna,Company - Private,,,80000,132000,106000,Masters,True,True,True,
 Data Scientist,Envision Healthcare,Nashville,Company - Private,Health Care Services & Hospitals,Health Care,80000,132000,106000,Bachelors,True,,True,True
 Data Scientist,"Pragmatics, Inc.",United States,Company - Private,IT Services,Information Technology,80000,132000,106000,Bachelors,True,True,,True
 Data Scientist,ConsumerTrack,California,Company - Private,Internet,Information Technology,80000,132000,106000,Masters,True,True,,
@@ -596,18 +596,18 @@ Data Scientist,Meridian Knowledge Solutions,Washington,Subsidiary or Business Se
 Data Scientist,UST Global,Atlanta,Company - Private,IT Services,Information Technology,80000,132000,106000,,True,,,
 Data Scientist,IMG Systems,Plano,Company - Private,Consulting,Business Services,80000,132000,106000,Bachelors,True,,,
 Data Scientist,Trident Systems Inc,Fairfax,Company - Private,Aerospace & Defense,Aerospace & Defense,80000,132000,106000,Bachelors,,,,
-Data Scientist,"Tygart Technology, Inc",Washington,Company - Private,-1,-1,80000,132000,106000,Bachelors,True,True,True,
+Data Scientist,"Tygart Technology, Inc",Washington,Company - Private,,,80000,132000,106000,Bachelors,True,True,True,
 (Sr.) Data Scientist -,Merrick Bank,Utah,Company - Private,Banks & Credit Unions,Finance,87000,141000,114000,Bachelors,True,True,True,True
 Senior Data Scientist,ManTech,Alexandria,Company - Public,Research & Development,Business Services,87000,141000,114000,Bachelors,True,True,True,
-Data Scientist,"GrainBridge, LLC",Omaha,-1,-1,-1,87000,141000,114000,Masters,True,,True,
+Data Scientist,"GrainBridge, LLC",Omaha,,,,87000,141000,114000,Masters,True,,True,
 Data Scientist,First Health Group,Wellesley,Company - Private,Insurance Carriers,Insurance,87000,141000,114000,,,,,
-Data Scientist,Sprezzatura Management Consulting,Washington,Company - Private,-1,-1,87000,141000,114000,Bachelors,,,,
+Data Scientist,Sprezzatura Management Consulting,Washington,Company - Private,,,87000,141000,114000,Bachelors,,,,
 Data Scientist,"Progress Rail, A Caterpillar Company",Fort Worth,Subsidiary or Business Segment,Rail,Transportation & Logistics,87000,141000,114000,Bachelors,True,,True,True
 Data Scientist,UST Global,Atlanta,Company - Private,IT Services,Information Technology,87000,141000,114000,,True,,,
 Data Scientist,Axiologic Solutions,Alexandria,Company - Private,Aerospace & Defense,Aerospace & Defense,87000,141000,114000,Bachelors,,,,
 Data Scientist,Indigo Slate,Bellevue,Company - Private,Consulting,Business Services,87000,141000,114000,,True,,,
 Data Scientist,Cubic,United States,Company - Public,Aerospace & Defense,Aerospace & Defense,87000,141000,114000,Masters,True,True,True,
-Data Scientist,Advanced Bio-Logic Solutions Corp,Thousand Oaks,Company - Private,-1,-1,87000,141000,114000,Bachelors,True,,True,
+Data Scientist,Advanced Bio-Logic Solutions Corp,Thousand Oaks,Company - Private,,,87000,141000,114000,Bachelors,True,,True,
 Data Engineer,Alignment Healthcare,Orange,Company - Private,Health Care Services & Hospitals,Health Care,87000,141000,114000,Bachelors,,True,True,
 Data Scientist,WGSN,Baltimore,Company - Private,Consulting,Business Services,87000,141000,114000,Masters,True,True,True,
 Data Scientist,"ISYS Technologies, Inc.",Herndon,Company - Private,Computer Hardware & Software,Information Technology,87000,141000,114000,,True,True,True,True
@@ -623,7 +623,7 @@ Data Scientist,"Central Business Solutions, Inc",Seattle,Company - Private,Consu
 Data Scientist,KeHE Distributors,Naperville,Company - Private,Wholesale,Business Services,92000,155000,123500,Bachelors,True,True,True,
 Data Scientist,Blackstone Talent Group,San Francisco,Company - Private,Consulting,Business Services,92000,155000,123500,Bachelors,True,,,
 Data Scientist - TS/SCI Required,Phoenix Operations Group,Baltimore,Company - Private,IT Services,Information Technology,92000,155000,123500,Bachelors,True,,,
-Data Scientist,Sophinea,Chantilly,Unknown,-1,-1,92000,155000,123500,Bachelors,,,True,
+Data Scientist,Sophinea,Chantilly,Unknown,,,92000,155000,123500,Bachelors,,,True,
 Senior Data Scientist,Maxar Technologies,Herndon,Company - Public,Aerospace & Defense,Aerospace & Defense,92000,155000,123500,Bachelors,True,True,True,True
 Data Scientist,Moxie Software,Bellevue,Company - Private,Enterprise Software & Network Solutions,Information Technology,92000,155000,123500,Masters,True,,,
 Data Scientist(s)/Machine Learning Engineer,Blue Horizon Tek Solutions,New York,Company - Private,Staffing & Outsourcing,Business Services,92000,155000,123500,Bachelors,True,,,
@@ -636,25 +636,25 @@ Data Scientist,Maxar Technologies,Herndon,Company - Public,Aerospace & Defense,A
 ENGINEER - COMPUTER SCIENTIST - RESEARCH COMPUTER SCIENTIST - SIGNAL PROCESSING - SAN ANTONIO OR,Southwest Research Institute,Oklahoma City,Nonprofit Organization,Research & Development,Business Services,92000,155000,123500,Bachelors,True,,,True
 Data Scientist,Compass Consulting Group,Thousand Oaks,Company - Private,Consulting,Business Services,92000,155000,123500,Bachelors,True,,True,
 Data Science Software Engineer,Klaviyo,Boston,Company - Private,Computer Hardware & Software,Information Technology,92000,155000,123500,Bachelors,True,,,
-"Scientist / Group Lead, Cancer Biology",Monte Rosa Therapeutics,Cambridge,-1,-1,-1,92000,155000,123500,Masters,,,,
+"Scientist / Group Lead, Cancer Biology",Monte Rosa Therapeutics,Cambridge,,,,92000,155000,123500,Masters,,,,
 AI Ops Data Scientist,AstraZeneca,Gaithersburg,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,92000,155000,123500,Phd,True,True,True,
 Senior Data Scientist,GutCheck,Denver,Company - Private,Advertising & Marketing,Business Services,105000,167000,136000,,,,,
 Sr. ML/Data Scientist - AI/NLP/Chatbot,Juniper Networks,Cupertino,Company - Public,Telecommunications Services,Telecommunications,105000,167000,136000,Masters,True,,,
 Data Scientist,Hexagon US Federal,Lexington Park,Company - Public,Aerospace & Defense,Aerospace & Defense,105000,167000,136000,Bachelors,,,,
 Data Scientist,Comtech Global Inc,Washington,Company - Private,"Health, Beauty, & Fitness",Consumer Services,105000,167000,136000,Bachelors,True,True,True,
-Data Scientist,Berico Technologies,Fort Belvoir,-1,-1,-1,105000,167000,136000,,,,,
-Data Scientist,Kehe Food Distributors,Naperville,-1,-1,-1,105000,167000,136000,Bachelors,True,True,True,
+Data Scientist,Berico Technologies,Fort Belvoir,,,,105000,167000,136000,,,,,
+Data Scientist,Kehe Food Distributors,Naperville,,,,105000,167000,136000,Bachelors,True,True,True,
 Data Scientist,"Aveshka, Inc.",Washington,Company - Public,IT Services,Information Technology,105000,167000,136000,Bachelors,True,True,True,
 Data Scientist,Perspecta,Adelphi,Company - Public,Aerospace & Defense,Aerospace & Defense,105000,167000,136000,Bachelors,True,,,True
-Data Scientist,Pactera Edge,Redmond,-1,-1,-1,105000,167000,136000,Phd,True,,True,
+Data Scientist,Pactera Edge,Redmond,,,,105000,167000,136000,Phd,True,,True,
 Data Scientist,Qurate Retail Group,West Chester,Company - Public,Other Retail Stores,Retail,105000,167000,136000,Masters,True,True,True,
-Data Scientist,"SolutionIT, Inc.",Edison,Company - Private,-1,-1,105000,167000,136000,Bachelors,,,,
+Data Scientist,"SolutionIT, Inc.",Edison,Company - Private,,,105000,167000,136000,Bachelors,,,,
 Data Scientist,A-Line Staffing Solutions,Durham,Company - Private,Staffing & Outsourcing,Business Services,105000,167000,136000,Masters,True,True,True,
-Data Scientist,Clear Ridge Defense,Quantico,Company - Private,-1,-1,105000,167000,136000,Bachelors,True,,,
+Data Scientist,Clear Ridge Defense,Quantico,Company - Private,,,105000,167000,136000,Bachelors,True,,,
 Data Scientist,"Criterion Systems, Inc.",Vienna,Company - Private,IT Services,Information Technology,105000,167000,136000,,True,,True,
 Data Scientist,Foundation Medicine,Boston,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,105000,167000,136000,Masters,True,True,True,
 Data Scientist,TRANZACT,Fort Lee,Company - Private,Advertising & Marketing,Business Services,105000,167000,136000,Bachelors,True,,True,
-Data Scientist,JKGT,San Francisco,-1,-1,-1,105000,167000,136000,,,,,
-Data Scientist,AccessHope,Irwindale,-1,-1,-1,105000,167000,136000,,True,True,True,True
+Data Scientist,JKGT,San Francisco,,,,105000,167000,136000,,,,,
+Data Scientist,AccessHope,Irwindale,,,,105000,167000,136000,,True,True,True,True
 Data Scientist,ChaTeck Incorporated,San Francisco,Company - Private,Advertising & Marketing,Business Services,105000,167000,136000,Bachelors,True,True,,
 Data Scientist,1-800-Flowers,New York,Company - Public,Wholesale,Business Services,105000,167000,136000,Bachelors,True,,True,
