@@ -1,4 +1,4 @@
-# DATA JOB ESSENTIALS
+# DECODING JOBS IN DATA
 
 ### Introduction
 
